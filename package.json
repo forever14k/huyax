@@ -2,7 +2,7 @@
   "name": "huyax",
   "bin": "huyax.sh",
   "repository": "nuxdie/huyax",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "New generation of deploy tools",
   "author": "Artem Tsatsin <nuxdie@gmail.com> (https://github.com/nuxdie)",
   "license": "MIT"
