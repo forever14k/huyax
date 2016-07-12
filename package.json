@@ -1,0 +1,13 @@
+{
+  "name": "huyax",
+  "bin": "huyax.sh",
+  "version": "1.0.0",
+  "description": "New generation of deploy tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Artem Tsatsin <nuxdie@gmail.com> (https://github.com/nuxdie)",
+  "license": "ISC"
+}
