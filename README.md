@@ -1,8 +1,16 @@
 # New generation of deploy tools
-## use
+## install
+```
+  npm i -g huyax
+```
+
+## configure
 place `deploy` command in package.json like this
-````json
+```json
   "scripts": {
     "deploy": "rsync ./public root@production.server:/var/www"
   }
-````
+```
+
+## use
+just run `huyax` in the package.json directory
